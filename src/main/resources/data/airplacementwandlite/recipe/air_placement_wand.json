@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "NDN",
+        "NSN",
+        " S "
+    ],
+    "key": {
+        "N": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "id": "airplacementwandlite:air_placement_wand",
+        "count": 1
+    }
+}

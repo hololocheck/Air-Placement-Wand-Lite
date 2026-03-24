@@ -1,0 +1,15 @@
+{
+    "itemGroup.airplacementwandlite": "Air Placement Wand Lite",
+    "block.airplacementwandlite.frame_block": "Frame Block",
+    "item.airplacementwandlite.air_placement_wand": "Air Placement Wand",
+    "tooltip.airplacementwandlite.wand_distance": "Distance: %d blocks",
+    "tooltip.airplacementwandlite.wand_item_desc": "A wand that places Frame Blocks in mid-air using durability",
+    "tooltip.airplacementwandlite.wand_use": "Right-click: Place Frame Block",
+    "tooltip.airplacementwandlite.wand_shift_use": "Shift+Right-click: Remove all placed blocks",
+    "tooltip.airplacementwandlite.wand_shift_scroll": "Shift+Scroll: Adjust distance (1-15)",
+    "tooltip.airplacementwandlite.wand_shift_middle": "Shift+Middle Click: Reset distance",
+    "message.airplacementwandlite.wand_no_durability": "Not enough durability",
+    "message.airplacementwandlite.wand_removed": "Removed %d frame blocks",
+    "message.airplacementwandlite.wand_distance": "Distance: %d blocks",
+    "message.airplacementwandlite.wand_distance_reset": "Distance reset: %d blocks"
+}

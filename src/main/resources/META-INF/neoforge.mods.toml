@@ -1,0 +1,27 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "airplacementwandlite"
+version = "1.0.0"
+displayName = "Air Placement Wand Lite"
+description = '''
+A standalone wand that places Frame Blocks in mid-air.
+Uses durability instead of FE energy. Supports Unbreaking and Mending enchantments.
+'''
+authors = "hololocheck"
+
+[[dependencies.airplacementwandlite]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.airplacementwandlite]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.21.2)"
+ordering = "NONE"
+side = "BOTH"

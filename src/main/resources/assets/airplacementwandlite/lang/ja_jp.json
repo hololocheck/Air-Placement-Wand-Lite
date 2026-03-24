@@ -1,0 +1,15 @@
+{
+    "itemGroup.airplacementwandlite": "空中設置杖 Lite",
+    "block.airplacementwandlite.frame_block": "フレームブロック",
+    "item.airplacementwandlite.air_placement_wand": "空中設置杖",
+    "tooltip.airplacementwandlite.wand_distance": "設置距離: %dブロック",
+    "tooltip.airplacementwandlite.wand_item_desc": "耐久値を消費してフレームブロックを空中に設置する杖",
+    "tooltip.airplacementwandlite.wand_use": "右クリック: フレームブロックを設置",
+    "tooltip.airplacementwandlite.wand_shift_use": "Shift+右クリック: 設置した全ブロックを撤去",
+    "tooltip.airplacementwandlite.wand_shift_scroll": "Shift+スクロール: 設置距離を調整 (1-15)",
+    "tooltip.airplacementwandlite.wand_shift_middle": "Shift+ホイール押込み: 距離をリセット",
+    "message.airplacementwandlite.wand_no_durability": "耐久値が不足しています",
+    "message.airplacementwandlite.wand_removed": "%d個のフレームブロックを撤去しました",
+    "message.airplacementwandlite.wand_distance": "設置距離: %dブロック",
+    "message.airplacementwandlite.wand_distance_reset": "設置距離をリセット: %dブロック"
+}
